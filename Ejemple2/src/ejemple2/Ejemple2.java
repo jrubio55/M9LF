@@ -17,6 +17,7 @@ public class Ejemple2 {
     public static void main(String[] args) {
         // TODO code application logic here
         String lan = "Hola";
+        System.out.println(lan);
     }
     
 }
