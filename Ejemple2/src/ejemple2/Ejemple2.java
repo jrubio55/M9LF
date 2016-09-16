@@ -19,6 +19,8 @@ public class Ejemple2 {
 
         String lang = "Hola";
         System.out.println(lang);
+        String la = "Mundo";
+        System.out.println(la);
 
     }
     
