@@ -17,10 +17,8 @@ public class Ejemple2 {
     public static void main(String[] args) {
         // TODO code application logic here
 
-        String lang = "Hola";
+        String lang = "Solucionado";
         System.out.println(lang);
-        String la = "Mundo";
-        System.out.println(la);
 
     }
     
