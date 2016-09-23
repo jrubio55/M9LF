@@ -9,7 +9,7 @@ package factoriaobjetos;
  *
  * @author Jorge
  */
-public class FiguraFactory {
+public abstract class FiguraFactory {
 
     public final static int CUADRADO = 0;
     public final static int CIRCULO = 1;
