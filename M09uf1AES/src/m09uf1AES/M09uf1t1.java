@@ -1,4 +1,4 @@
-package m09uf1t1;
+package m09uf1AES;
 
 import java.util.Arrays;
 import java.util.Scanner;
